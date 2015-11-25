@@ -1,4 +1,12 @@
-Resource links and notes related to Haskell to be organized
+# TODO
+1. move learning projects under this projects
+  - cis194-spring2013
+  - cis194-fall2014
+  - nicta
+  - book-lyah
+  - articles
+
+# Resource links and notes related to Haskell to be organized
 
 http://www.haskell.org/haskellwiki/How_to_write_a_Haskell_program
 
