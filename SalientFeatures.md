@@ -15,6 +15,11 @@ Operators
 		- non associativity is specified by infix
 	- If no fixity declaration is given for a particular operator, it defaults to infixl 9.
 
+A Haskell program is a collection of *Modules*.
+Modules in Haskell are used for:
+- controlling name-spaces
+- creating Abstract Data Types
+
 Section
 - In Haskell the partial application of an infix operator is called a section:
 ```
