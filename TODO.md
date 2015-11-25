@@ -46,3 +46,8 @@ http://adit.io/posts/2013-04-15-making-a-website-with-haskell.html
 
 https://wunki.org/posts/2014-05-17-haskell-packages-development.html
 
+http://almostobsolete.net/regex-crossword/part1.html
+
+http://blog.gja.in/2014/01/functional-programming-101-with-haskell.html#.UvFZdLT4Z6Y
+
+http://www.thesoftwaredevelopmentlifecycle.com/?p=89
