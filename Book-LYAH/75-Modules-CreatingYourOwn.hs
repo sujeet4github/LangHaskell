@@ -1,0 +1,4 @@
+-- http://learnyouahaskell.com/modules#making-our-own-modules
+--
+-- See Geometry.hs for sample module using submodules
+--

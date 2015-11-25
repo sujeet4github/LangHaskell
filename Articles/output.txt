@@ -1,0 +1,38 @@
+Haddock coverage:
+   0% (  0 / 33) in 'Transformers'
+  Missing documentation for:
+    Module header
+    Name (Transformer.lhs:119)
+    Exp (Transformer.lhs:121)
+    Value (Transformer.lhs:128)
+    Env (Transformer.lhs:132)
+    eval0 (Transformer.lhs:151)
+    exampleExp (Transformer.lhs:195)
+    Eval1 (Transformer.lhs:240)
+    runEval1 (Transformer.lhs:242)
+    eval1 (Transformer.lhs:248)
+    Eval2 (Transformer.lhs:329)
+    runEval2 (Transformer.lhs:345)
+    eval2a (Transformer.lhs:351)
+    eval2b (Transformer.lhs:375)
+    eval2c (Transformer.lhs:419)
+    eval2 (Transformer.lhs:437)
+    Eval3 (Transformer.lhs:481)
+    runEval3 (Transformer.lhs:487)
+    eval3 (Transformer.lhs:490)
+    Eval4 (Transformer.lhs:549)
+    runEval4 (Transformer.lhs:557)
+    tick (Transformer.lhs:570)
+    eval4 (Transformer.lhs:577)
+    Eval4' (Transformer.lhs:616)
+    runEval4' (Transformer.lhs:622)
+    Eval5 (Transformer.lhs:642)
+    runEval5 (Transformer.lhs:657)
+    eval5 (Transformer.lhs:664)
+    Eval6 (Transformer.lhs:706)
+    runEval6 (Transformer.lhs:714)
+    eval6 (Transformer.lhs:726)
+    eval4' (Transformer.lhs:787)
+    main (Transformer.lhs:809)
+Warning: Transformers: could not find link destinations for:
+    String Integer Show Map Identity ErrorT Either ReaderT StateT Num MonadState WriterT IO

@@ -1,0 +1,64 @@
+
+Transformer.lhs:100:3: Warning:
+    Module `Control.Monad.Error' is deprecated:
+      Use Control.Monad.Except instead
+
+Transformer.lhs:329:22: Warning:
+    In the use of type constructor or class `ErrorT'
+    (imported from Control.Monad.Error, but defined in Control.Monad.Trans.Error):
+    Deprecated: "Use Control.Monad.Trans.Except instead"
+
+Transformer.lhs:346:31: Warning:
+    In the use of `runErrorT'
+    (imported from Control.Monad.Error, but defined in Control.Monad.Trans.Error):
+    Deprecated: "Use Control.Monad.Trans.Except instead"
+
+Transformer.lhs:481:35: Warning:
+    In the use of type constructor or class `ErrorT'
+    (imported from Control.Monad.Error, but defined in Control.Monad.Trans.Error):
+    Deprecated: "Use Control.Monad.Trans.Except instead"
+
+Transformer.lhs:488:35: Warning:
+    In the use of `runErrorT'
+    (imported from Control.Monad.Error, but defined in Control.Monad.Trans.Error):
+    Deprecated: "Use Control.Monad.Trans.Except instead"
+
+Transformer.lhs:549:35: Warning:
+    In the use of type constructor or class `ErrorT'
+    (imported from Control.Monad.Error, but defined in Control.Monad.Trans.Error):
+    Deprecated: "Use Control.Monad.Trans.Except instead"
+
+Transformer.lhs:558:51: Warning:
+    In the use of `runErrorT'
+    (imported from Control.Monad.Error, but defined in Control.Monad.Trans.Error):
+    Deprecated: "Use Control.Monad.Trans.Except instead"
+
+Transformer.lhs:616:57: Warning:
+    In the use of type constructor or class `ErrorT'
+    (imported from Control.Monad.Error, but defined in Control.Monad.Trans.Error):
+    Deprecated: "Use Control.Monad.Trans.Except instead"
+
+Transformer.lhs:623:41: Warning:
+    In the use of `runErrorT'
+    (imported from Control.Monad.Error, but defined in Control.Monad.Trans.Error):
+    Deprecated: "Use Control.Monad.Trans.Except instead"
+
+Transformer.lhs:642:36: Warning:
+    In the use of type constructor or class `ErrorT'
+    (imported from Control.Monad.Error, but defined in Control.Monad.Trans.Error):
+    Deprecated: "Use Control.Monad.Trans.Except instead"
+
+Transformer.lhs:659:43: Warning:
+    In the use of `runErrorT'
+    (imported from Control.Monad.Error, but defined in Control.Monad.Trans.Error):
+    Deprecated: "Use Control.Monad.Trans.Except instead"
+
+Transformer.lhs:706:36: Warning:
+    In the use of type constructor or class `ErrorT'
+    (imported from Control.Monad.Error, but defined in Control.Monad.Trans.Error):
+    Deprecated: "Use Control.Monad.Trans.Except instead"
+
+Transformer.lhs:716:30: Warning:
+    In the use of `runErrorT'
+    (imported from Control.Monad.Error, but defined in Control.Monad.Trans.Error):
+    Deprecated: "Use Control.Monad.Trans.Except instead"
