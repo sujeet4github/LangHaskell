@@ -17,7 +17,11 @@ And all this in one language, with a great package manager, a lovely collection 
 libraries, an industrial strength compiler, testing tools, profiling options, and a great
 community full of the smartest people I've ever met."
 
-# Types
+### Purely Functional
+Haskell has no notion of "assignment", "mutable state", "variables", and is a "pure functional language",
+which means that every function called with the same input parameters will return exactly the same result.
+
+### Types
 - Haskell is a typeful language - statically typed along with type inferencing
 - type constructors with type variables (compile-time) vs data/value constructors
 - Hindley-Milner type system, which forms the basis of the type systems of Haskell, ML, Miranda,4 and several other
