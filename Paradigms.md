@@ -17,7 +17,8 @@ And all this in one language, with a great package manager, a lovely collection 
 libraries, an industrial strength compiler, testing tools, profiling options, and a great
 community full of the smartest people I've ever met."
 
-# Strong Typing, Type Inference
+# Types
+- Haskell is a typeful language - statically typed along with type inferencing
 - type constructors with type variables (compile-time) vs data/value constructors
 - Hindley-Milner type system, which forms the basis of the type systems of Haskell, ML, Miranda,4 and several other
 (mostly functional) languages.
