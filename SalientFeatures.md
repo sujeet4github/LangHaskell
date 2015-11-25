@@ -3,7 +3,7 @@
 function names must be lower case, type names are Capitalized, identifiers for values are lower case
 - this is enforced by the Haskell lexical syntax
 
-Operators
+### Operators
 - Infix - entirely of symbols
 - A regular function can be converted to an operator by surrounding with ``
 - Fixity Declaration
@@ -15,12 +15,12 @@ Operators
 		- non associativity is specified by infix
 	- If no fixity declaration is given for a particular operator, it defaults to infixl 9.
 
-A Haskell program is a collection of *Modules*.
+### A Haskell program is a collection of *Modules*.
 Modules in Haskell are used for:
 - controlling name-spaces
 - creating Abstract Data Types
 
-Section
+### Section
 - In Haskell the partial application of an infix operator is called a section:
 ```
 	 (x+) is the same as \ y -> x+y
@@ -31,6 +31,8 @@ Section
  	Function Composition Operator - .
  		f . g x is the same as f ( g(x) )
 ```
+
+### Let vs Where
 
 # Layout
 use semicolons, braces etc or use a two-dimensional syntax called "layout", essentially relies on declarations being lined up in columns.
