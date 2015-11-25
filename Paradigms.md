@@ -16,3 +16,10 @@ and modularity to a piece of code (almost) for free.
 And all this in one language, with a great package manager, a lovely collection of well thought
 libraries, an industrial strength compiler, testing tools, profiling options, and a great
 community full of the smartest people I've ever met."
+
+# Strong Typing, Type Inference
+- type constructors with type variables (compile-time) vs data/value constructors
+- Hindley-Milner type system, which forms the basis of the type systems of Haskell, ML, Miranda,4 and several other
+(mostly functional) languages.
+- polymorphic types (with type variables) <==> generics in java
+- It is important to distinguish between applying a data constructor to yield a value, and applying a type constructor to yield a type; the former happens at run-time and is how we compute things in Haskell, whereas the latter happens at compile-time and is part of the type system's process of ensuring type safety.
