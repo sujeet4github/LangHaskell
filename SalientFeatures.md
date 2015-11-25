@@ -42,3 +42,12 @@ use semicolons, braces etc or use a two-dimensional syntax called "layout", esse
 	2. just be sure that the starting column is further to the right than the starting column associated with the immediately surrounding clause (otherwise it would be ambiguous).
 	  - The "termination" of a declaration happens when something appears at or to the left of the starting column
 		associated with that binding form.
+
+# User defined types
+type constructors with type variables (compile-time) vs data/value constructors
+
+- type: make synonyms
+	- syntax: type <newtype> = <existingtype>
+- newtype: take existing types and wrap them in new types, mostly so its easier to make them instances of certain type classes
+- data: make a brand new type
+	- syntax: data <name-of-type> [type-expressions] = <constructor> <value-expression> [deriving ....]
