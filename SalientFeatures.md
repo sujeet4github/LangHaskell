@@ -43,6 +43,15 @@ use semicolons, braces etc or use a two-dimensional syntax called "layout", esse
 	  - The "termination" of a declaration happens when something appears at or to the left of the starting column
 		associated with that binding form.
 
+# Types
+Just as expressions denote values, type-expressions denote type values
+```
+	5 :: Integer
+	'a' :: Char
+	inc :: Integer -> Integer
+	[1, 2, 3] :: [Integer]
+	('a', 4) :: (Char, Integer)
+```
 # User defined types
 type constructors with type variables (compile-time) vs data/value constructors
 
