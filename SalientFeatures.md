@@ -33,6 +33,8 @@ Modules in Haskell are used for:
 ```
 
 ### Let vs Where
+It is often desirable to create a nested scope within an expression, for the purpose of creating local
+bindings not seen elsewhere, i.e. some kind of "block-structuring" form.
 
 # Layout
 use semicolons, braces etc or use a two-dimensional syntax called "layout", essentially relies on declarations being lined up in columns.
