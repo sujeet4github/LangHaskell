@@ -28,13 +28,13 @@ Packages can be automatically downloaded and installed from Hackage using the ca
 . http://hackage.haskell.org/
 
 Other
-    https://cloud.sagemath.com/
-        allows you to get up and running with Haskell quite quickly. Make a new project with a .hs file, create a new Terminal window, and start using ghci
-    http://paste.hskll.org/ allows you to run programs that produce diagrams, right in your browser
-    http://tryhaskell.org/ gives you a ghci session in your browser, and includes a very simple tutorial. It also features an interface to the #haskell IRC channel
-    http://lpaste.net/ good place to paste programs you’re having trouble with in order to get help from people in #haskell.
-    http://stackoverflow.com/questions/tagged/haskell
-    https://www.reddit.com/r/haskell/
-    https://en.wikibooks.org/wiki/Haskell
-    Blog Post Aggregator - http://planet.haskell.org/
-    Interesting - http://www.haskellforall.com/2015/08/state-of-haskell-ecosystem-august-2015.html
+  - https://cloud.sagemath.com/
+    . allows you to get up and running with Haskell quite quickly. Make a new project with a .hs file, create a new Terminal window, and start using ghci
+  - http://paste.hskll.org/ allows you to run programs that produce diagrams, right in your browser
+  - http://tryhaskell.org/ gives you a ghci session in your browser, and includes a very simple tutorial. It also features an interface to the #haskell IRC channel
+  - http://lpaste.net/ good place to paste programs you’re having trouble with in order to get help from people in #haskell.
+  - http://stackoverflow.com/questions/tagged/haskell
+  - https://www.reddit.com/r/haskell/
+  - https://en.wikibooks.org/wiki/Haskell
+  - Blog Post Aggregator - http://planet.haskell.org/
+  - Interesting - http://www.haskellforall.com/2015/08/state-of-haskell-ecosystem-august-2015.html
