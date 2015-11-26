@@ -1,9 +1,9 @@
 # TODO
 1. move learning projects under this projects
   - cis194-spring2013
-  - cis194-fall2014
-  - nicta
-  - book-lyah
+  - cis194-fall2014 (4/14 completed)
+  - nicta (not started)
+  - book-lyah (examples pending)
   - articles
 
 # Resource links and notes related to Haskell to be organized
