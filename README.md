@@ -1,6 +1,11 @@
 # LangHaskell
 Language Study Notes - Haskell
 
+Sandbox created at top level directory as per instructions in Quickstart below.
+To start repl:
+	cabal repl
+	:l  cis194-fall14\hw\HW06_Ex1.hs
+
 Quickstart
 ----------
 1. mkdir foo && cd foo
@@ -17,3 +22,4 @@ Reason why:  https://mail.haskell.org/pipermail/haskell-community/2015-September
 
 Instead: See the install instructions for how to get GHC & Cabal installed.
 https://github.com/bitemyapp/learnhaskell/blob/master/install.md
+

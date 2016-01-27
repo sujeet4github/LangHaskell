@@ -18,7 +18,7 @@
 --  is less than the other.
 -- It provides comparison operations like (<) and (<=), and also the compare function.
 --
--- Num - is for “numeric” types, which support things like addition, subtraction,
+-- Num - is for numeric� types, which support things like addition, subtraction,
 -- and multipication.
 --
 -- Integral represents whole number types such as Int and Integer.
