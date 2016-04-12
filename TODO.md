@@ -1,7 +1,7 @@
 # TODO
-1. move learning projects under this projects
-  - cis194-spring2013
-  - cis194-fall2014 (4/14 completed)
+1. Github project
+  - cis194-spring2013 (completed)
+  - cis194-fall2014 (7/14 completed)
   - nicta (not started)
   - book-lyah (examples pending)
   - articles
