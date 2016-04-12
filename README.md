@@ -1,13 +1,30 @@
 # LangHaskell
 Language Study Notes - Haskell
 
+Sandbox Creation
+================
 Sandbox created at top level directory as per instructions in Quickstart below.
 To start repl:
-	cabal repl
-	:l  cis194-fall14\hw\HW06_Ex1.hs
+		cabal repl
+To load a file
+		:l  cis194-fall14\hw\HW06_Ex1.hs
+	Or, Better
+		:cd cis194-fall14\\hw\\
+		:l HW06.hs
+		:!pwd  -- to verify current directory
+Libraries Added in sandbox:
+1. aeson and text added for HW06
+2. random added for HW07
+
+To update to github
+===================
+git
+> push
+> sujeet4github
+> for password use personal access token in keepass
 
 Quickstart
-----------
+==========
 1. mkdir foo && cd foo
 2. cabal sandbox init
 3. cabal init
