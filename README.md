@@ -13,8 +13,20 @@ To load a file
 		:l HW06.hs
 		:!pwd  -- to verify current directory
 Libraries Added in sandbox:
-1. aeson and text added for HW06
-2. random added for HW07
+1. aeson and text added for cis194-fall14 - HW06
+2. random added for cis194-fall14 - HW07
+3. hunit and quickcheck for cis194-fall14 - week 9
+4. Gloss for cis194-fall14 - Week 10
+	To fix - failed due to dependency on GLUT:
+	use freeglut: this is a OpenGL library for use with MSVC & MinGW
+	1. download Glut (from freeglut - http://www.transmissionzero.co.uk/software/freeglut-devel/)
+		in C:\s\opt\freeglut
+	2. I made a copy of C:\S\opt\devtools\freeglut\bin\x64\freeglut.dll in the same directory, naming it glut32.dll.
+	3. install glut using this command line:
+		cabal --extra-lib-dirs=C:\S\opt\devtools\freeglut\bin\x64 install GLUT
+	4. cabal install gloss
+	5. CABAL build is not working
+	apparently setting up GHC platform we dont have to do all these
 
 To update to github
 ===================

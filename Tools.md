@@ -21,6 +21,7 @@
     * http://projects.haskell.org/haskellmode-emacs/
   * Vi
     * http://projects.haskell.org/haskellmode-vim/
+    * https://github.com/begriffs/haskell-vim-now
         
 * Web Frameworks
         http://www.yesodweb.com/
